@@ -1,0 +1,6 @@
+name: amp-ios
+title: Adaptative Media Player iOS SDK
+version: 1.0.0
+start_page: ROOT:get-started.adoc
+nav:
+- modules/ROOT/nav.adoc
